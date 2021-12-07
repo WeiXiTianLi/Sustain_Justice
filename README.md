@@ -5,7 +5,5 @@
 
 暂时演示站点（并非实时更新）：http://xs.riyueen.com/
 
-![propaganda1](https://s4.ax1x.com/2021/12/06/oshPIJ.png)
-
-![propaganda1](https://s4.ax1x.com/2021/12/06/oshkGR.png)
+![宣传图](https://s4.ax1x.com/2021/12/07/ogMVfI.png)
 
