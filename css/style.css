@@ -396,6 +396,7 @@ header {
 footer {
     text-align: center;
     padding: 20px 0;
+    background-color: #f5f7fc;
 }
 
 .ipc-icon {
@@ -406,6 +407,11 @@ footer {
 .footer-icp {
     display: inline-block;
     margin-right: 10px;
+}
+
+.theme-copyright {
+    display: block;
+    padding-top: 9px;
 }
 
 a {
