@@ -501,12 +501,8 @@ img {
     flex: 50%;
 }
 
-.version-box-plane:first-child {
-    padding-right: 50px;
-}
-
-.version-box-plane:last-child {
-    padding-left: 50px;
+.version-box-plane {
+    padding: 0 330px 50px 330px;
 }
 
 .version-box {
