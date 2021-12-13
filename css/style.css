@@ -10,6 +10,15 @@
     /*对水平流动条有效*/
 }
 
+html {
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: progid: DXImageTransform.Microsoft.BasicImage(grayscale=1);
+    _filter: none;
+}
+
 
 /*定义滚动条的轨道颜色、内阴影及圆角*/
 
